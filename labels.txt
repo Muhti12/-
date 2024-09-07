@@ -1,0 +1,3 @@
+0 Kömür
+1 Doğal gaz
+2 petrol
